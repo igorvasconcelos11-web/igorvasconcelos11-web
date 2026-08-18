@@ -5,7 +5,7 @@
 ##
 Sobre mim
 - 🔥 Desenvolvedor Júnior.
-- 👨🏾‍🎓 Faço faculdade de Análise e desenvolvimento de sistemas na Universidade Paulista (UNIP).
+- 👨🏾‍🎓 Formado faculdade de Análise e desenvolvimento de sistemas na Universidade Paulista (UNIP).
 - 📚 Tenho conhecimento em java-script, Java, c#, c++ e python.
 - ⚡ Tecnologias:  HTML, CSS, JavaScript e SQL.
 ##
